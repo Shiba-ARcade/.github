@@ -1,6 +1,6 @@
 
 
-<h3>Welcome to Shiba VRcade!</h3> 
+<h2>Welcome to Shiba VRcade!</h2> 
 <kbd><a href="https://www.linkedin.com/company/shiba-vrcade"><img src="https://github.com/Shiba-VRcade/.github/assets/95538451/319099c5-ca26-4bfd-a960-500b7ef4936a" height="20"/></a></kbd>        <kbd>
   <a href="https://www.youtube.com/@ShibaVRcade"><img src="https://github.com/Shiba-VRcade/.github/assets/95538451/82bdbb8c-f7b7-452e-9ae5-3bf003668f0a" height="20"/></a></kbd>        <kbd>
   <a href="https://t.me/Shiba_VRcade"><img src="https://github.com/Shiba-VRcade/.github/assets/95538451/9d744b3c-9d96-4760-afb9-70b7bba1d361" height="20"/></a></kbd>        <kbd>
@@ -11,3 +11,13 @@ This journey is fascinating, not just for the amazing games we'll explore togeth
 
 
 ![Shiba-VRcade-Cover](https://github.com/Shiba-VRcade/.github/assets/95538451/467b2be1-4ef6-4864-afc8-5f63bc6f461f)
+
+<h2>Games</h2>
+
+<kbd>
+Name: <b>Maze</b><br><br>
+Status: <b>In Development</b><br><br>
+  <a href="https://github.com/Shiba-VRcade">
+    <img src="https://github.com/Shiba-VRcade/.github/assets/95538451/5711ccdb-e783-4cb5-991e-07efe75ba02b" height="300"/>
+  </a>
+</kbd>

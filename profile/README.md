@@ -13,11 +13,14 @@ This journey is fascinating, not just for the amazing games we'll explore togeth
 ![Shiba-VRcade-Cover](https://github.com/Shiba-VRcade/.github/assets/95538451/467b2be1-4ef6-4864-afc8-5f63bc6f461f)
 
 <h2>Games</h2>
+<img src="https://github.com/Shiba-VRcade/.github/assets/95538451/36edba75-e7ff-494f-8b1e-de0997fcf425" height="50" align="right"/>
+<p>
+  <kbd>
+  Name: <b>Maze</b><br><br>
+  Status: <b>In Development</b><br><br>
+    <a href="https://github.com/Shiba-VRcade">
+      <img src="https://github.com/Shiba-VRcade/.github/assets/95538451/5711ccdb-e783-4cb5-991e-07efe75ba02b" height="300"/>
+    </a>
+  </kbd>
+</p>
 
-<kbd>
-Name: <b>Maze</b><br><br>
-Status: <b>In Development</b><br><br>
-  <a href="https://github.com/Shiba-VRcade">
-    <img src="https://github.com/Shiba-VRcade/.github/assets/95538451/5711ccdb-e783-4cb5-991e-07efe75ba02b" height="300"/>
-  </a>
-</kbd>

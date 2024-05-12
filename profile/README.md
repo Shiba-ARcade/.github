@@ -22,5 +22,11 @@ This journey is fascinating, not just for the amazing games we'll explore togeth
       <img src="https://github.com/Shiba-VRcade/.github/assets/95538451/5711ccdb-e783-4cb5-991e-07efe75ba02b" height="300"/>
     </a>
   </kbd>
+   <kbd>
+  Name: <b>Puzzle</b><br><br>
+  Status: <b>In Development</b><br><br>
+    <a href="https://github.com/Shiba-VRcade">
+      <img src="https://github.com/Shiba-VRcade/.github/assets/95538451/082e9c2a-9b64-4038-94a5-b87b1863a5f8" height="300"/>
+    </a>
+  </kbd>
 </p>
-
